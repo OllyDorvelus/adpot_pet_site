@@ -833,3 +833,8 @@
 .hover a:hover {
   text-decoration: none;
 }
+
+.namelist {
+  background-color:blue;
+  display:inline;
+}
